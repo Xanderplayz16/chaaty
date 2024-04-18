@@ -1,0 +1,36 @@
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+#sendmessage {
+    margin-top: 10px;
+    height: 25px;
+    left: 0px;
+    right: 0px;
+    position: fixed;
+    display: flex;
+    bottom: 0px;
+    align-items: center;
+    background-color: black;
+}
+
+#message {
+    width: 100%
+}
+
+#messages {
+    display: block;
+    margin-bottom: 56px;
+    width: 100%;
+    height: 100%;
+}
+
+#mainpage {
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
